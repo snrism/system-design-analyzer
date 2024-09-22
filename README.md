@@ -53,7 +53,7 @@ Before you begin, ensure you have the following:
 
 1. Run the Streamlit app:
    ```
-   streamlit run pdf_review_app.py
+   streamlit run design-reviewer.py
    ```
 
 2. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`)
