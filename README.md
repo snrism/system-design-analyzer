@@ -23,7 +23,7 @@ Before you begin, ensure you have the following:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/system-design-analyzer.git
+   git clone https://github.com/snrism/system-design-analyzer.git
    ```
 
 2. Install the required dependencies:
