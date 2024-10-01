@@ -74,11 +74,4 @@ Contributions to improve the PDF Review App are welcome! Please feel free to sub
 
 ## License
 
-[Insert your chosen license here, e.g., MIT License, Apache 2.0, etc.]
-
-## Acknowledgments
-
-- This project uses the Streamlit framework for the user interface
-- PDF text extraction is performed using PyPDF2
-- AI-powered feedback is generated using the Anthropic API
-- Google Cloud Storage is used for file storage and retrieval
+This project is licensed under the MIT License.
